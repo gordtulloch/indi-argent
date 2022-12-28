@@ -1,7 +1,7 @@
 /*******************************************************************************
   Copyright(c) 2023 Gord Tulloch. All rights reserved.
 
-  Derived from INDI Argent Driver. Copyright(c) 2017 Jasem Mutlaq. All rights reserved.
+  Derived from INDI Weather Driver. Copyright(c) 2017 Jasem Mutlaq. All rights reserved.
 
   This program is free software; you can redistribute it and/or modify it
   under the terms of the GNU General Public License as published by the Free
